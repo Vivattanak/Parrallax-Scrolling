@@ -1,4 +1,4 @@
-   const s1 = document.getElementById('section1');
+const s1 = document.getElementById('section1');
     const s2 = document.getElementById('section2');
 
     window.addEventListener('scroll', () => {
